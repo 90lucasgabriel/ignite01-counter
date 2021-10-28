@@ -1,4 +1,12 @@
-# hello_world
+# Ignite 01 - Counter
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/9625765/139166214-3a7827b0-d5e6-4f04-ac6a-c43b7cbae036.png" width="300px" />
+<img src="https://user-images.githubusercontent.com/9625765/139166220-e61f2e2d-3243-4d75-9024-51aff43483db.png" width="300px" />
+</div>
+
+
 
 A new Flutter project.
 
